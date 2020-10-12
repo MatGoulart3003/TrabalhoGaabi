@@ -144,7 +144,7 @@ public class StartApp {
 	//esse metodo é pra imprimir os resultados das contas enquanto a esteira estiver rodando 
 	public static void imprimeResults () {
 		
-		System.out.println("Valor de A: " + a);
+		System.out.println(" de A: " + a);
 		System.out.println("Valor de B: " + b);
 		System.out.println("Valor de C: " + c);
 		System.out.println("Valor de D: " + d);
